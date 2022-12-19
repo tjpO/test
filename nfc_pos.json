@@ -1,28 +1,15 @@
 [
   {
-    "manufacturer": "7Eleven",
-    "marketingName": "IN265",
+    "manufacturer": "1&1",
+    "marketingName": "1&1 Puck",
     "modelNames": [
-      "IN265"
+      "DIW362P 1U1"
     ],
     "nfcPos": {
-      "x0": 0.23958333333333337,
-      "y0": 0.35125,
-      "x1": 0.9765625,
-      "y1": 0.64375
-    }
-  },
-  {
-    "manufacturer": "3222222 Satelital",
-    "marketingName": "G706",
-    "modelNames": [
-      "G706"
-    ],
-    "nfcPos": {
-      "x0": 0.1953125,
-      "y0": 0.19375,
-      "x1": 0.7942708333333334,
-      "y1": 0.48875
+      "x0": 0.140625,
+      "y0": 0.28125,
+      "x1": 0.6770833333333333,
+      "y1": 0.56125
     }
   },
   {
@@ -39,7 +26,33 @@
     }
   },
   {
-   "manufacturer": "AEEZO",
+    "manufacturer": "3222222 Satelital",
+    "marketingName": "G706",
+    "modelNames": [
+      "G706"
+    ],
+    "nfcPos": {
+      "x0": 0.1953125,
+      "y0": 0.19375,
+      "x1": 0.7942708333333334,
+      "y1": 0.48875
+    }
+  },
+  {
+    "manufacturer": "7Eleven",
+    "marketingName": "IN265",
+    "modelNames": [
+      "IN265"
+    ],
+    "nfcPos": {
+      "x0": 0.23958333333333337,
+      "y0": 0.35125,
+      "x1": 0.9765625,
+      "y1": 0.64375
+    }
+  },
+  {
+    "manufacturer": "AEEZO",
     "marketingName": "TK701",
     "modelNames": [
       "TK701"
@@ -49,7 +62,7 @@
       "y0": 0.295,
       "x1": 0.7786458333333334,
       "y1": 0.475
-       }
+    }
   },
   {
     "manufacturer": "Huawei",
