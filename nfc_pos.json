@@ -1,5 +1,18 @@
 [
   {
+    "manufacturer": "1&1",
+    "marketingName": "1&1 TV Box",
+    "modelNames": [
+      "DIW387 1U1"
+    ],
+    "nfcPos": {
+      "x0": 0.30208333333333337,
+      "y0": 0.35875,
+      "x1": 0.6692708333333333,
+      "y1": 0.59
+    }
+  },
+  {
     "manufacturer": "Huawei",
     "marketingName": "Samsung Galaxy Z Flip4 5G",
     "modelNames": [
