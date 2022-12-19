@@ -1,5 +1,18 @@
 [
   {
+    "manufacturer": "7Eleven",
+    "marketingName": "IN265",
+    "modelNames": [
+      "IN265"
+    ],
+    "nfcPos": {
+      "x0": 0.23958333333333337,
+      "y0": 0.35125,
+      "x1": 0.9765625,
+      "y1": 0.64375
+    }
+  },
+  {
     "manufacturer": "Huawei",
     "marketingName": "Samsung Galaxy Z Flip4 5G",
     "modelNames": [
