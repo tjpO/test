@@ -1,11 +1,22 @@
 [
   {
     "manufacturer": "Huawei",
+    "marketingName": "aaa",
+    "modelNames": [
+      "1"
+    ],
+    "x0": 0.78,
+    "y0": 0.1,
+    "x1": 0.8,
+    "y1": 0.8
+  },
+  {
+    "manufacturer": "Huawei",
     "marketingName": "Samsung Galaxy Z Flip4 5G",
     "modelNames": [
       "1"
     ],
-    "nfcPos":{
+    "nfcPos": {
       "x0": 0.78,
       "y0": 0.1,
       "x1": 0.8,
@@ -16,7 +27,7 @@
     "manufacturer": "Samsung",
     "marketingName": "Samsung Galaxy Z Flip4 5G",
     "modelNames": [],
-    "nfcPos":{
+    "nfcPos": {
       "x0": 0.06617647058823528,
       "y0": 0.5709677419354838,
       "x1": 0.9264705882352942,
@@ -27,7 +38,7 @@
     "manufacturer": "Samsung",
     "marketingName": "Samsung Galaxy Z Fold4 5G",
     "modelNames": [],
-    "nfcPos":{
+    "nfcPos": {
       "x0": 0.10447761194029848,
       "y0": 0.45806451612903226,
       "x1": 0.9328358208955224,
