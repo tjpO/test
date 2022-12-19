@@ -1,20 +1,22 @@
 [
-     {
-          "manufacturer": "Samsung",
-          "marketingName": "Samsung Galaxy Z Flip4 5G",
-          "modelNames": [],
-          "x0": 0.06617647058823528,
-          "y0": 0.5709677419354838,
-          "x1": 0.9264705882352942,
-          "y1": 0.8774193548387097
-     },
-     {
-          "manufacturer": "Samsung",
-          "marketingName": "Samsung Galaxy Z Fold4 5G",
-          "modelNames": [],
-          "x0": 0.10447761194029848,
-          "y0": 0.45806451612903226,
-          "x1": 0.9328358208955224,
-          "y1": 0.7967741935483871
-     }
+  {
+    "manufacturer": "Samsung",
+    "marketingName": "Samsung Galaxy Z Fold4 5G",
+    "modelNames": [],
+    "x0": 0.10447761194029848,
+    "y0": 0.45806451612903226,
+    "x1": 0.9328358208955224,
+    "y1": 0.7967741935483871
+  },
+  {
+    "manufacturer": "Samsung",
+    "marketingName": "Samsung Galaxy Z Flip4 5G",
+    "modelNames": [],
+    "nfcPos": {
+      "x0": 0.08308823529411764,
+      "y0": 0.3354838709677419,
+      "x1": 0.8632352941176471,
+      "y1": 0.8387096774193549
+    }
+  }
 ]
