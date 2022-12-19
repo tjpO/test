@@ -11,6 +11,17 @@
     "y1": 0.8
   },
   {
+    "manufacturer": "Huawei",
+    "marketingName": "aaaa",
+    "modelNames": [
+      "1"
+    ],
+    "x0": 0.78,
+    "y0": 0.1,
+    "x1": 0.8,
+    "y1": 0.8
+  },
+  {
     "manufacturer": "Samsung",
     "marketingName": "Samsung Galaxy Z Flip4 5G",
     "modelNames": [],
