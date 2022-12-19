@@ -1,5 +1,18 @@
 [
   {
+    "manufacturer": "3222222 Satelital",
+    "marketingName": "G706",
+    "modelNames": [
+      "G706"
+    ],
+    "nfcPos": {
+      "x0": 0.1953125,
+      "y0": 0.19375,
+      "x1": 0.7942708333333334,
+      "y1": 0.48875
+    }
+  },
+  {
     "manufacturer": "1&1",
     "marketingName": "1&1 TV Box",
     "modelNames": [
