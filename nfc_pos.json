@@ -1,15 +1,15 @@
 [
   {
-    "manufacturer": "7Eleven",
-    "marketingName": "IN265",
+    "manufacturer": "1&1",
+    "marketingName": "1&1 TV Box",
     "modelNames": [
-      "IN265"
+      "DIW387 1U1"
     ],
     "nfcPos": {
-      "x0": 0.23958333333333337,
-      "y0": 0.35125,
-      "x1": 0.9765625,
-      "y1": 0.64375
+      "x0": 0.30208333333333337,
+      "y0": 0.35875,
+      "x1": 0.6692708333333333,
+      "y1": 0.59
     }
   },
   {
@@ -26,20 +26,33 @@
     }
   },
   {
-    "manufacturer": "1&1",
-    "marketingName": "1&1 TV Box",
+    "manufacturer": "7Eleven",
+    "marketingName": "IN265",
     "modelNames": [
-      "DIW387 1U1"
+      "IN265"
     ],
     "nfcPos": {
-      "x0": 0.30208333333333337,
-      "y0": 0.35875,
-      "x1": 0.6692708333333333,
-      "y1": 0.59
+      "x0": 0.23958333333333337,
+      "y0": 0.35125,
+      "x1": 0.9765625,
+      "y1": 0.64375
     }
   },
   {
-   "manufacturer": "AEEZO",
+    "manufacturer": "7mobile",
+    "marketingName": "KAMBA",
+    "modelNames": [
+      "KAMBA"
+    ],
+    "nfcPos": {
+      "x0": 0.11197916666666663,
+      "y0": 0.18,
+      "x1": 0.7369791666666667,
+      "y1": 0.36875
+    }
+  },
+  {
+    "manufacturer": "AEEZO",
     "marketingName": "TK701",
     "modelNames": [
       "TK701"
@@ -49,7 +62,7 @@
       "y0": 0.295,
       "x1": 0.7786458333333334,
       "y1": 0.475
-       }
+    }
   },
   {
     "manufacturer": "Huawei",
