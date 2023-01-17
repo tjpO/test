@@ -14,6 +14,19 @@
   },
   {
     "manufacturer": "10.or",
+    "marketingName": "G",
+    "modelNames": [
+      "G"
+    ],
+    "nfcPos": {
+      "x0": 0.2734375,
+      "y0": 0.38,
+      "x1": 0.7161458333333333,
+      "y1": 0.57875
+    }
+  },
+  {
+    "manufacturer": "10.or",
     "marketingName": "G2",
     "modelNames": [
       "G2"
