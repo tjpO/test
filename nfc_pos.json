@@ -1,15 +1,15 @@
 [
   {
-    "manufacturer": "7Eleven",
-    "marketingName": "IN265",
+    "manufacturer": "1&1",
+    "marketingName": "1&1 TV Box",
     "modelNames": [
-      "IN265"
+      "DIW387 1U1"
     ],
     "nfcPos": {
-      "x0": 0.23958333333333337,
-      "y0": 0.35125,
-      "x1": 0.9765625,
-      "y1": 0.64375
+      "x0": 0.30208333333333337,
+      "y0": 0.35875,
+      "x1": 0.6692708333333333,
+      "y1": 0.59
     }
   },
   {
@@ -26,16 +26,16 @@
     }
   },
   {
-    "manufacturer": "1&1",
-    "marketingName": "1&1 TV Box",
+    "manufacturer": "7Eleven",
+    "marketingName": "IN265",
     "modelNames": [
-      "DIW387 1U1"
+      "IN265"
     ],
     "nfcPos": {
-      "x0": 0.30208333333333337,
-      "y0": 0.35875,
-      "x1": 0.6692708333333333,
-      "y1": 0.59
+      "x0": 0.23958333333333337,
+      "y0": 0.35125,
+      "x1": 0.9765625,
+      "y1": 0.64375
     }
   },
   {
@@ -62,6 +62,27 @@
       "y0": 0.1,
       "x1": 0.8,
       "y1": 0.8
+    }
+  },
+  {
+    "manufacturer": "Samsung",
+    "marketingName": "Galaxy S22 Ultra",
+    "modelNames": [
+      "SC-52C",
+      "SCG14",
+      "SM-S9080",
+      "SM-S908E",
+      "SM-S908N",
+      "SM-S908U",
+      "SM-S908U1",
+      "SM-S908W",
+      "SM-S908B"
+    ],
+    "nfcPos": {
+      "x0": 0.08854166666666663,
+      "y0": 0.48875,
+      "x1": 0.8619791666666666,
+      "y1": 0.9525
     }
   },
   {
